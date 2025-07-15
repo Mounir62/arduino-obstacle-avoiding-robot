@@ -120,7 +120,6 @@ loop() {
 ```
 /
 ├── Documentation.pdf          # Full report and technical breakdown
-├── Presentation.pdf           # Project slides for presentation
 ├── Project_Code.ino           # Arduino source code
 ├── diagram.png                # Full circuit diagram
 └── README.md                  # Project overview (this file)
