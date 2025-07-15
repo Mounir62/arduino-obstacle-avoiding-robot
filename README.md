@@ -1,6 +1,6 @@
 # Obstacle Avoidance Robot 🚴✨
 
-[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino\&logoColor=white)](https://www.arduino.cc/) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino\&logoColor=white)](https://www.arduino.cc/)
 
 An Arduino-powered autonomous robot that uses an ultrasonic sensor mounted on a servo motor to detect and avoid obstacles in real time.
 
